@@ -1,0 +1,12 @@
+{
+  "name": "h4-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "vercel-build": "echo 'Vercel uses serverless function file, no build step'"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
